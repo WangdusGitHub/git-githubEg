@@ -5,3 +5,5 @@ add content in file one.
 add contain by master
 
 add contain by master in file one.
+
+stashing example
