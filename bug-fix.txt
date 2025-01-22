@@ -1,2 +1,3 @@
 add bug-fix file in bug-fix branch and fixed the bug.
 
+add secound fix in bug-fix
